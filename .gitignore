@@ -16,7 +16,4 @@ build/
 
 # IDE
 .vscode/
-.idea/
-
-# Claude
-.claude/
+.idea/z
